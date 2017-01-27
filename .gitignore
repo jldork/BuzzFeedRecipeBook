@@ -1,0 +1,6 @@
+
+*.pyc
+__pycache__
+.vscode
+recipe_book.json
+venv
